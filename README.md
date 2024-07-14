@@ -51,7 +51,7 @@ Ensure you have the following installed on your machine:
 
 #### Main Components
 
-- **CustomerCrudApplication.java**: The main entry point for the Spring Boot application.
+- **CustomerApplication.java**: The main entry point for the Spring Boot application.
 - **Customer.java**: Entity class representing a customer.
 - **CustomerRepository.java**: Repository interface for database operations related to customers.
 - **CustomerService.java**: Service layer handling business logic related to customers.
