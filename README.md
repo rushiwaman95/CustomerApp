@@ -35,7 +35,7 @@ Ensure you have the following installed on your machine:
    ```sh
    cd target
    java -jar <jar file name>
-### Step 3: Set Up Frontend
+### Step 4: Set Up Frontend
 1. Open a new terminal and navigate to the my-app directory.
 
 2. Install the necessary packages:
